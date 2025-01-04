@@ -38,7 +38,7 @@ npm run dev
 
 ### Estructura de Archivos
 ```
-m4-ejercicio1/
+m4-ejercicio2/
 ├── public/
 ├── src/
 │   ├── assets/
@@ -52,6 +52,8 @@ m4-ejercicio1/
 │   │   ├── Modal.jsx
 │   │   ├── ServiceListWithLoading.jsx
 │   │   └── ServiceList.jsx
+│   ├── context/
+│   │   └── HospitalContext.jsx
 │   ├── App.css
 │   ├── App.jsx
 │   ├── index.css
