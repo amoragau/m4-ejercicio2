@@ -288,6 +288,8 @@ useEffect(()=>{
   fetchServices();
 }, []);
 ```
+#### Modal 
+Se crea el componente `Modal.jsx` y `DoctorDetailsModal.jsx`, en este último se muestra la información detallada de los doctores.
 
 ### 6. Optimización de Rendimiento y Profiler en ReactJS
 
