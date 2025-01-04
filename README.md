@@ -52,6 +52,8 @@ m4-ejercicio1/
 │   │   ├── Modal.jsx
 │   │   ├── ServiceListWithLoading.jsx
 │   │   └── ServiceList.jsx
+│   ├── context/
+│   │   └── HospitalContext.jsx
 │   ├── App.css
 │   ├── App.jsx
 │   ├── index.css
